@@ -69,4 +69,3 @@ elif segundo_turno[1][0] > segundo_turno[0][0]:
 else:
     print('O segundo turno terminou em empate.')
 
-# Resto do código
